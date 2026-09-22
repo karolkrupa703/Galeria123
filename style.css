@@ -1,0 +1,10 @@
+#gora{
+  display: flex;
+}
+#dol{
+  display: flex;
+}
+*{
+  margin: 5px;
+  padding: 5px;
+}
